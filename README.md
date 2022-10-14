@@ -5,7 +5,7 @@
 * HTML 
 * CSS
 * Bootstrap
-* JavaScrip
+* JavaScript
  
 ### Here is a quick demo 
 ## Home Page
