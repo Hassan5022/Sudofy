@@ -14,7 +14,6 @@
 [Click for Web Link](https://hassan5022.github.io/Sudofy-Assignment-2) <br>
 [Click for Repository](https://github.com/Hassan5022/Sudofy-Assignment-2.git)
 
-
 #### Assignment 3:
 [Click for Web Link](https://hassan5022.github.io/Sudofy-Assignment-3) <br>
 [Click for Repository](https://github.com/Hassan5022/Sudofy-Assignment-3.git)
@@ -28,6 +27,10 @@
 #### Assignment 1:
 [Click for Web Link](https://hassan5022.github.io/JS-Assignment-1) <br>
 [Click for Repository](https://github.com/Hassan5022/JS-Assignment-1.git)
+
+#### Magic Square:
+[Click for Web Link](https://hassan5022.github.io/magic-square) <br>
+[Click for Repository](https://github.com/Hassan5022/magic-square.git)
 
 #### Practice Project Github Finder:
 [Click for Web Link](https://hassan5022.github.io/Github-Finder) <br>
