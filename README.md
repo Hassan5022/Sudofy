@@ -39,3 +39,9 @@
 #### Assignment 2:
 [Click for Web Link](https://hassan5022.github.io/JS-Assignment-2) <br>
 [Click for Repository](https://github.com/Hassan5022/JS-Assignment-2.git)
+
+### Module 3 React JS:
+
+#### Practice Project: Memory Game
+[Click for Web Link](https://react-magic-game.web.app) <br>
+[Click for Repository](https://github.com/Hassan5022/magic-game.git)
