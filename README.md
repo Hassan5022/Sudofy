@@ -46,6 +46,10 @@
 [Click for Web Link](https://react-magic-game.web.app) <br>
 [Click for Repository](https://github.com/Hassan5022/magic-game.git)
 
+#### Practice Project: Recipe List
+[Click for Web Link](https://recipelist-assignment.netlify.app) <br>
+[Click for Repository](https://github.com/Hassan5022/cooking-recipe.git)
+
 #### Assignment # 01: AI Image Generator
 [Click for Web Link](https://react-assignment-project.netlify.app) <br>
 [Click for Repository](https://github.com/Hassan5022/react-project.git)
