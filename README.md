@@ -45,3 +45,11 @@
 #### Practice Project: Memory Game
 [Click for Web Link](https://react-magic-game.web.app) <br>
 [Click for Repository](https://github.com/Hassan5022/magic-game.git)
+
+#### Assignment # 01: AI Image Generator
+[Click for Web Link](https://react-assignment-project.netlify.app) <br>
+[Click for Repository](https://github.com/Hassan5022/react-project.git)
+
+#### Assignment # 02: Lazy Loading
+[Click for Web Link](https://image-gallery-assignment.netlify.app) <br>
+[Click for Repository](https://github.com/Hassan5022/image-gallery.git)
