@@ -57,3 +57,8 @@
 #### Assignment # 02: Lazy Loading
 [Click for Web Link](https://image-gallery-assignment.netlify.app) <br>
 [Click for Repository](https://github.com/Hassan5022/image-gallery.git)
+
+#### Capstone Project: MedCure: Doctor Appointment Application with vidio consultation
+[Click for Web Link](https://medcure-video-chat.vercel.app/) <br>
+[Click for Repository (Frontend)](https://github.com/Hassan5022/capstone.git) <br>
+[Click for Repository (Backend)](https://github.com/Hassan5022/capstone-backend.git)
